@@ -1,6 +1,6 @@
 <template>
     <div>
-        首页
+        这是酒店页
     </div>
 </template>
 

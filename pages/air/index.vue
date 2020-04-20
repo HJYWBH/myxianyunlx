@@ -1,6 +1,6 @@
 <template>
     <div>
-        首页
+        这是机票页
     </div>
 </template>
 
